@@ -1,0 +1,31 @@
+
+.footer{
+  background-color:azure;
+  padding: 25px;
+  color: darkmagenta;
+}
+.cardsContainer{
+  display: flex;
+  flex: row;
+  justify-content: space-around;
+}
+.mybutton{
+  border:1px solid darkmagenta;
+  color: darkmagenta;
+  width: 30px;
+  padding: 5px;
+  border-radius: 10px;
+  background: transparent;
+  margin: 5px;
+}
+input{
+  padding: 5px;
+  border:1px solid darkmagenta;
+  border-radius: 5px;
+}
+.mynav{
+  background-color: aliceblue;
+  width: 100%;
+  display: inline;
+  
+}
